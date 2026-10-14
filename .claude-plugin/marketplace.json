@@ -630,7 +630,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/brightdata/skills.git",
-        "sha": "e825f02fbcd7a89087fd1053a57ddcd45113370f"
+        "sha": "5bbd4803eb02e05a5bce903960c77cd50ddaeed7"
       },
       "homepage": "https://docs.brightdata.com"
     },
